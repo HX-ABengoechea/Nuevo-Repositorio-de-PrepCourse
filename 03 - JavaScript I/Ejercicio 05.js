@@ -29,18 +29,18 @@ function obtenerSaludo(nombre) {
 }
 
 function obtenerAreaRectangulo(alto, ancho) {
-   // Retornar el área de un rectángulo teniendo su altura y ancho
+   // Retornar el área de un rectángulo teniendo su altura y ancho.
    // Tu código:
 }
 
 function retornarPerimetro(lado) {
-   // La función recibe como argumento la medida de un lado de un rectángulo
-   // Debes retornar su perímetro
+   // La función recibe como argumento la medida de un lado de un rectángulo.
+   // Debes retornar su perímetro.
    // Tu código:
 }
 
 function areaDelTriangulo(base, altura) {
-   // Calcula el área de un triángulo y retorna el resultado
+   // Calcula el área de un triángulo y retorna el resultado.
    // Tu código:
 }
 
@@ -52,7 +52,7 @@ function deEuroAdolar(euro) {
 
 function esVocal(letra) {
    // Escribe una función que reciba una letra y, si es una vocal, muestre el mensaje “Es vocal”.
-   // Si el usuario ingresa un string de más de un caracter debes retornar el mensaje: "Dato incorrecto"
+   // Si el usuario ingresa un string de más de un caracter debes retornar el mensaje: "Dato incorrecto".
    // Si no es vocal, tambien debe retornar "Dato incorrecto".
    // Tu código:
 }

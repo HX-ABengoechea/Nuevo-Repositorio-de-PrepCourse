@@ -2,34 +2,34 @@
 /*2️⃣ EJERCICIO 02 2️⃣*/
 
 function devolverString(str) {
-   // Debe retornar un string
+   // Debe retornar un string.
    // Tu código:
 }
 
-// ⛔️ "X" e "Y" son números
+// ⛔️ "X" e "Y" son números.
 
 function suma(x, y) {
-   // Retorna el resultado de su suma
+   // Retorna el resultado de su suma.
    // Tu código:
 }
 
 function resta(x, y) {
-   // Retorna el resultado de su resta
+   // Retorna el resultado de su resta.
    // Tu código:
 }
 
 function multiplica(x, y) {
-   // Retorna el resultado de su multiplicación
+   // Retorna el resultado de su multiplicación.
    // Tu código:
 }
 
 function divide(x, y) {
-   // Retorna el resultado de su división
+   // Retorna el resultado de su división.
    // Tu código:
 }
 
 function obtenerResto(x, y) {
-   // Obten el resto de la división de "x" entre "y"
+   // Obten el resto de la división de "x" entre "y".
    // Tu código:
 }
 
