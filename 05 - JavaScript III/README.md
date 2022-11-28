@@ -34,10 +34,9 @@ Para ejecutar los tests de las homeworks debes:
 
 En esta Homework podrás poner en práctica:
 
--  Tipos de datos
--  Variables
--  Funciones
--  Operadores
+-  Arreglos
+-  Métodos
+-  Bucles
 
 ---
 
@@ -47,8 +46,4 @@ En esta Homework podrás poner en práctica:
 
 ### **📍 EJERCICIO 01**
 
-En este ejercicio debes crear una nueva carpeta con el nombre "_CarpetaHenry_". Utiliza los comandos de más arriba.
-
----
-
-</br >
+En esta homework recibirás una serie de funciones que deben cumplir con las espeficicaciones. Dependiendo la función deberás utilizar métodos de arreglos y bucles.
