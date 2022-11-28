@@ -92,8 +92,8 @@ function esPrimo(num) {
 }
 
 function esVerdadero(valor) {
-   // Si "valor" es verdadero retornar True.
-   // Caso contrario, retornar False.
+   // Si "valor" es verdadero retornar "Soy verdadero".
+   // Caso contrario, retornar "Soy falso".
    // Tu código:
 }
 

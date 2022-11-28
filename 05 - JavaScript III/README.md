@@ -1,6 +1,6 @@
 ![HenryLogo](../Assets//logoBannerHenry.png)
 
-# **HOMEWORK 04 | JAVASCRIPT II**
+# **HOMEWORK 05 | JAVASCRIPT III**
 
 ## **✅ TESTING**
 
@@ -23,7 +23,7 @@ Para ejecutar los tests de las homeworks debes:
 -  Si quieres ejecutar los tests de esta homework en específico ejecuta el comando:
 
 ```bash
-    npm test 04
+    npm test 05
 ```
 
 ---
@@ -34,10 +34,10 @@ Para ejecutar los tests de las homeworks debes:
 
 En esta Homework podrás poner en práctica:
 
--  Condicionales
--  Operadores de Comparación
--  Operadores Lógicos
--  Bucles
+-  Tipos de datos
+-  Variables
+-  Funciones
+-  Operadores
 
 ---
 
@@ -45,6 +45,10 @@ En esta Homework podrás poner en práctica:
 
 ## **📌 INSTRUCCIONES**
 
-### **📍 HOMEWORK**
+### **📍 EJERCICIO 01**
 
-En esta homework recibirás una serie de funciones que deben cumplir con las espeficicaciones. Dependiendo la función deberás utilizar condicionales, operadores de comparación, operadores lógicos y/o bucles.
+En este ejercicio debes crear una nueva carpeta con el nombre "_CarpetaHenry_". Utiliza los comandos de más arriba.
+
+---
+
+</br >

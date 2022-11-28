@@ -20,13 +20,11 @@ Para ejecutar los tests de las homeworks debes:
     npm test
 ```
 
--  Si quieres ejecutar los tests de una homework específica escribe en tu terminal:
+-  Si quieres ejecutar los tests de esta homework en específico ejecuta el comando:
 
 ```bash
-    npm test XX
+    npm test 03
 ```
-
-... donde "_**XX**_" es el número de la homework.
 
 ---
 
