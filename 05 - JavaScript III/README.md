@@ -44,6 +44,6 @@ En esta Homework podrás poner en práctica:
 
 ## **📌 INSTRUCCIONES**
 
-### **📍 EJERCICIO 01**
+### **📍 HOMEWORK**
 
 En esta homework recibirás una serie de funciones que deben cumplir con las espeficicaciones. Dependiendo la función deberás utilizar métodos de arreglos y bucles.
