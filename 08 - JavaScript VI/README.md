@@ -1,6 +1,6 @@
 ![HenryLogo](../Assets//logoBannerHenry.png)
 
-# **HOMEWORK 06 | JAVASCRIPT IV**
+# **HOMEWORK 03 | JAVASCRIPT I**
 
 ## **✅ TESTING**
 
@@ -23,7 +23,7 @@ Para ejecutar los tests de las homeworks debes:
 -  Si quieres ejecutar los tests de esta homework en específico ejecuta el comando:
 
 ```bash
-    npm test 06
+    npm test 03
 ```
 
 ---
@@ -34,11 +34,10 @@ Para ejecutar los tests de las homeworks debes:
 
 En esta Homework podrás poner en práctica:
 
--  Objetos
--  Propiedades
--  Métodos
--  Bucle For-In
--  This
+-  Tipos de datos
+-  Variables
+-  Funciones
+-  Operadores
 
 ---
 
@@ -46,6 +45,10 @@ En esta Homework podrás poner en práctica:
 
 ## **📌 INSTRUCCIONES**
 
-### **📍 HOMEWORK**
+### **📍 EJERCICIO 01**
 
-En esta Homework tendrás una serie de funciones en las que se te pedirá trabajar con funciones. Crearás y eliminarás propiedades. También utilizarás métodos varios y el bucle For-In.
+En este ejercicio debes crear una nueva carpeta con el nombre "_CarpetaHenry_". Utiliza los comandos de más arriba.
+
+---
+
+</br >
