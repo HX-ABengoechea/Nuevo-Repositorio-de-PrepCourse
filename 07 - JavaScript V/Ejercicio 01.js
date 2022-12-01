@@ -1,4 +1,5 @@
 /*⚠️ NO MODIFIQUES EL NOMBRE DE LAS DECLARACIONES ⚠️*/
+/*1️⃣ EJERCICIO 01 1️⃣*/
 
 function crearUsuario() {
    // Crea una Clase de ES6 o una función constructora llamada "Usuario".

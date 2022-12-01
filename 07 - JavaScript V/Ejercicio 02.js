@@ -1,5 +1,5 @@
 /*⚠️ NO MODIFIQUES EL NOMBRE DE LAS DECLARACIONES ⚠️*/
-/*1️⃣ EJERCICIO 01 1️⃣*/
+/*2️⃣ EJERCICIO 02 2️⃣*/
 
 class Persona {
    // Crea el constructor de la clase "Persona".
