@@ -1,6 +1,6 @@
 ![HenryLogo](../Assets//logoBannerHenry.png)
 
-# **HOMEWORK 03 | JAVASCRIPT I**
+# **HOMEWORK 08 | JAVASCRIPT VI**
 
 ## **✅ TESTING**
 
@@ -23,7 +23,7 @@ Para ejecutar los tests de las homeworks debes:
 -  Si quieres ejecutar los tests de esta homework en específico ejecuta el comando:
 
 ```bash
-    npm test 03
+    npm test 08
 ```
 
 ---
@@ -34,10 +34,7 @@ Para ejecutar los tests de las homeworks debes:
 
 En esta Homework podrás poner en práctica:
 
--  Tipos de datos
--  Variables
--  Funciones
--  Operadores
+-  Callbacks
 
 ---
 
@@ -45,10 +42,6 @@ En esta Homework podrás poner en práctica:
 
 ## **📌 INSTRUCCIONES**
 
-### **📍 EJERCICIO 01**
+### **📍 HOMEWORK**
 
-En este ejercicio debes crear una nueva carpeta con el nombre "_CarpetaHenry_". Utiliza los comandos de más arriba.
-
----
-
-</br >
+En esta homework trabajarás con funciones que utilizan callbacks. Sigue las instrucciones del archivo.
