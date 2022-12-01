@@ -1,6 +1,6 @@
 ![HenryLogo](../Assets//logoBannerHenry.png)
 
-# **HOMEWORK 03 | JAVASCRIPT I**
+# **HOMEWORK 07 | JAVASCRIPT V**
 
 ## **✅ TESTING**
 
@@ -23,7 +23,7 @@ Para ejecutar los tests de las homeworks debes:
 -  Si quieres ejecutar los tests de esta homework en específico ejecuta el comando:
 
 ```bash
-    npm test 03
+    npm test 07
 ```
 
 ---
@@ -34,10 +34,9 @@ Para ejecutar los tests de las homeworks debes:
 
 En esta Homework podrás poner en práctica:
 
--  Tipos de datos
--  Variables
--  Funciones
--  Operadores
+-  Clases
+-  Prototipos
+-  Objeto This
 
 ---
 
@@ -47,7 +46,15 @@ En esta Homework podrás poner en práctica:
 
 ### **📍 EJERCICIO 01**
 
-En este ejercicio debes crear una nueva carpeta con el nombre "_CarpetaHenry_". Utiliza los comandos de más arriba.
+En este ejercicio tendrás que resolver algunas funciones en las que debes acceder al prototipo de distintos objetos y realizar modificaciones.
+
+---
+
+</br >
+
+### **📍 EJERCICIO 02**
+
+En este ejercicio deberás crear una clase, y a partir de ella desarrollar algunas funciones que la utilicen.
 
 ---
 
