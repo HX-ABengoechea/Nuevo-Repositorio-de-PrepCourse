@@ -12,7 +12,6 @@ const {
    operadoresLogicos,
    esPrimo,
    esVerdadero,
-   tablaDelSeis,
    tieneTresDigitos,
    doWhile,
 } = require('../homework');
@@ -181,14 +180,6 @@ describe('JAVASCRIPT II', function () {
       });
       it('Debe retornar "Soy falso" si valor es False', function () {
          expect(esVerdadero(false)).toBe('Soy falso');
-      });
-   });
-
-   describe('tablaDelSeis()', function () {
-      it('Debe retornar la tabla de multiplicar del 6 en un arreglo', function () {
-         expect(tablaDelSeis()).toEqual([
-            0, 6, 12, 18, 24, 30, 36, 42, 48, 54, 60,
-         ]);
       });
    });
 

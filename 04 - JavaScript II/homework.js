@@ -139,17 +139,6 @@ function esVerdadero(valor) {
    return valor ? 'Soy verdadero' : 'Soy falso';
 }
 
-function tablaDelSeis() {
-   // Escribe una función que muestre la tabla de multiplicar del 6 (del 0 al 60).
-   // La función devuelve un arreglo con los resultados de la tabla de multiplicar del 6 en orden creciente.
-   // Tu código:
-   var arr = [];
-   for (let i = 0; i <= 10; i++) {
-      arr.push(i * 6);
-   }
-   return arr;
-}
-
 function tieneTresDigitos(num) {
    // Si el número recibido tiene tres dígitos retornar True.
    // Caso contrario, retornar False.
@@ -182,7 +171,6 @@ module.exports = {
    operadoresLogicos,
    esPrimo,
    esVerdadero,
-   tablaDelSeis,
    tieneTresDigitos,
    doWhile,
 };
