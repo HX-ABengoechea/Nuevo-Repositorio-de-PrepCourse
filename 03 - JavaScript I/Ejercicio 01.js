@@ -2,28 +2,28 @@
 /*1️⃣ EJERCICIO 01 1️⃣*/
 
 // Crea una variable de tipo string.
-const nuevaString = null;
+const nuevoString = 'null';
 
 // Crea una variable de tipo number.
-const nuevoNum = null;
+const nuevoNumero = 5;
 
 // Crea una variable de tipo boolean.
-const nuevoBool = null;
+const nuevoBoolean = true;
 
 // Resuelve el siguiente problema matemático.
-const nuevaResta = 10 - null === 3;
+const nuevaResta = 10 - 7 === 3;
 
 // Resuelve el siguiente problema matemático.
-const nuevaMultiplicacion = 10 * null === 40;
+const nuevaMultiplicacion = 10 * 4 === 40;
 
 // Resuelve el siguiente problema matemático.
-const nuevoModulo = 21 % 5 === null;
+const nuevoModulo = 21 % 5 === 1;
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
 module.exports = {
-   nuevaString,
-   nuevoNum,
-   nuevoBool,
+   nuevoString,
+   nuevoNumero,
+   nuevoBoolean,
    nuevaResta,
    nuevaMultiplicacion,
    nuevoModulo,
